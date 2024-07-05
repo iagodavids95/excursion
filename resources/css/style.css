@@ -4,12 +4,21 @@ body {
     text-align: center;
 }
 
+/*  HEADINGS */
     
 .header--main {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
 }
+
+.header--seconday {
+    color: #fff;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+/* LINK */
 
 .link--cta {
     font-size: 16px;
